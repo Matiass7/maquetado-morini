@@ -1,0 +1,66 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.div {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.usuario {
+    margin-left: 200px;
+}
+
+.banner2 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.banner2 img{
+    height: 500px;
+}
+
+.footer  {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+    }
+
+.banner3 {
+    display: flex;
+    justify-content: center;
+}
+
+.banner3 img{
+    width: 1000px;
+    height: 250px;
+}
+
+.menu2 {
+    width: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+
+.main2 {
+    display: flex;
+    justify-content: start;
+    align-items: center;  
+}
+
+
+.imagenesp img{
+    height: 200px;
+}
+
+.imagenesp1 img {
+    height: 200px;
+}
+
+.cont__img {
+    margin-left: 300px;
+}
